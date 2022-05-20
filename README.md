@@ -6,7 +6,7 @@ I'm Jakhongir from Tashkent, and I do a lot of awesome projects on React and Jav
 
 Skills: VUE JS / REACT / NEXT / TYPESCRIPT / JS / HTML / CSS
 
-- 🔭 I’m currently working on People's Bank 
+- 🔭 I’m currently working on JSC Xalq Banki of the Republic of Uzbekistan 
 - 🌱 I’m currently learning Backend development 
 
 
